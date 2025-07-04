@@ -3,7 +3,10 @@ import TicTacToe from './components/TicTacToe';
 
 function App() {
   return ( 
-    <TicTacToe />
+    <div>
+      <TicTacToe />
+      <Footer/>
+    </div>
   );
 }
 
