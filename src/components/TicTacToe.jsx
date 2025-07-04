@@ -27,11 +27,11 @@ const winningCombinations = [
         strikeClass: "strike-column-1" 
     },
     {
-        combo: [2,4,7],
+        combo: [1,4,7],
         strikeClass: "strike-column-2"
     },
     {
-        combo: [3,5,8],
+        combo: [2,5,8],
         strikeClass: "strike-column-3"
     },
     //Diagonals
