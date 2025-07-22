@@ -1,6 +1,8 @@
 About the project
 ![Tic-Tac-Toe](<Screenshot 2024-07-18 at 12.09.06 PM.png>)
 
+Hosted code: https://tic-tac-toe-missha.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
